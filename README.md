@@ -6,3 +6,9 @@ JAVA PROGRAMMING
     ii.IF ELSE CONDITION # Which check the given condition is either true or false.<br>
     iii.IF ELSE IF CONDITION # ALSO KNOWN AS LADDER STATEMENT.<br>
     iv.NESTED IF ELSE CONDITION
+    <br>
+3.LOOP STATEMENT IN JAVA<br>
+    i.While Loop
+    ii.For Loop<br>
+    iii.Nested For Loop<br>
+    iv.While Loop

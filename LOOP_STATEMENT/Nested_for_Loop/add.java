@@ -1,4 +1,4 @@
-public class SumofRowColumn    
+public class add   
 {    
     public static void main(String[] args) {    
         int rows, cols, sumRow, sumCol;    
